@@ -7,11 +7,11 @@ url('https://fonts.googleapis.com/css2?family=Chakra+Petch&display=swap');
  --verde:#6FFF57;
 }
 body{
-background-color:var(--cor-de-fundo);    
-color:var(--branco);
-text-align:center;
-font-family: 'Chakra Petch';
-}
+ background-color:var(--cor-de-fundo);    
+ color:var(--branco);
+ text-align:center;
+ font-family: 'Chakra Petch';
+ }
  
  h1 span{
     color:var(--verde)
@@ -19,5 +19,5 @@ font-family: 'Chakra Petch';
 
  #dias_restantes{
    color:var(--verde);
-   font: size 50px;
+   font-size: 50px;
  }
